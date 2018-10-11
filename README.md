@@ -1,2 +1,2 @@
-# Phys 133 at Cal Poly
-E&amp;M materials
+# Phys 132 at Cal Poly
+Waves and Oscillations materials
